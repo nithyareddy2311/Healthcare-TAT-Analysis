@@ -47,16 +47,6 @@ Data Modeling
 Data Cleaning & Transformation
 ## 📸 Dashboard Preview
 
-### 🔹 Summary Page  
-![Summary]("D:\portfolio_project\project 3- Health\summary page.png")
 
-### 🔹 KPI Dashboard  
-![KPIs]("D:\portfolio_project\project 3- Health\kpis.png")
-
-### 🔹 Visual Analysis  
-![Visuals]("D:\portfolio_project\project 3- Health\Visuals.png")
-
-### 🔹 Detailed Data View  
-![Detailed]("D:\portfolio_project\project 3- Health\Detailed page.png")
 
 
