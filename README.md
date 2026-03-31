@@ -45,7 +45,7 @@ Power BI
 DAX (Data Analysis Expressions)
 Data Modeling
 Data Cleaning & Transformation
-## 📸 Dashboard Preview
+
 
 
 
